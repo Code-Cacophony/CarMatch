@@ -1,0 +1,11 @@
+/Users/erikgrove/Desktop/code/Repositories/Car/obj/Debug/netcoreapp2.2/Car.csprojAssemblyReference.cache
+/Users/erikgrove/Desktop/code/Repositories/Car/obj/Debug/netcoreapp2.2/Car.csproj.CoreCompileInputs.cache
+/Users/erikgrove/Desktop/code/Repositories/Car/obj/Debug/netcoreapp2.2/Car.AssemblyInfoInputs.cache
+/Users/erikgrove/Desktop/code/Repositories/Car/obj/Debug/netcoreapp2.2/Car.AssemblyInfo.cs
+/Users/erikgrove/Desktop/code/Repositories/Car/bin/Debug/netcoreapp2.2/Car.deps.json
+/Users/erikgrove/Desktop/code/Repositories/Car/bin/Debug/netcoreapp2.2/Car.runtimeconfig.json
+/Users/erikgrove/Desktop/code/Repositories/Car/bin/Debug/netcoreapp2.2/Car.runtimeconfig.dev.json
+/Users/erikgrove/Desktop/code/Repositories/Car/bin/Debug/netcoreapp2.2/Car.dll
+/Users/erikgrove/Desktop/code/Repositories/Car/bin/Debug/netcoreapp2.2/Car.pdb
+/Users/erikgrove/Desktop/code/Repositories/Car/obj/Debug/netcoreapp2.2/Car.dll
+/Users/erikgrove/Desktop/code/Repositories/Car/obj/Debug/netcoreapp2.2/Car.pdb
