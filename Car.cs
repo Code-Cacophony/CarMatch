@@ -7,7 +7,7 @@ public class Car
   public int Price;
   public int Miles;
 
-  public Car(string model, int price, int miles)
+  public Car(string makeModel, int price, int miles)
   {
     MakeModel = makeModel;
     Price = price;
@@ -16,7 +16,7 @@ public class Car
 
   public bool WorthBuying(int maxPrice)
   {
-    return (Price <= maxPrice);
+    return (Price < maxPrice);
   }
 }
 
@@ -35,7 +35,7 @@ public class Program
     string stringMaxPrice = Console.ReadLine();
     int maxPrice = int.Parse(stringMaxPrice);
 
-    List<Car> CarsMatchingSearch = new Lizst<Car>(0);
+    List<Car> CarsMatchingSearch = new List<Car>(0);
 
     foreach (Car automobile in Cars)
     {
